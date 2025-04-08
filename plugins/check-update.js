@@ -27,7 +27,7 @@ cmd({
     }
 
     // Fetch latest version data from GitHub
-    const rawVersionUrl = 'https://raw.githubusercontent.com/awais-star-a11y/AWAIS-MD-V3/main/my_data/version.json';
+    const rawVersionUrl = 'https://raw.githubusercontent.com/ADEELSABQI786/MAFIA-MD-V2/main/my_data/version.json';
     let latestVersion = 'Unknown';
     let latestChangelog = 'No changelog available.';
     try {
@@ -53,7 +53,7 @@ cmd({
     const lastUpdate = fs.statSync(localVersionPath).mtime.toLocaleString();
 
     // GitHub stats
-    const githubRepo = 'https://github.com/Awais-star-a11y/AWAIS-MD-V3';
+    const githubRepo = 'https://github.com/ADEELSABQI786/MAFIA-MD-V2';
 
     // Check update status
     let updateMessage = `✅ Your AWAIS-MD bot is up-to-date!`;
@@ -69,7 +69,7 @@ Use *.update* to update.`;
       `📌 *Bot Name:* AWAIS-MD\n🔖 *Current Version:* ${localVersion}\n📢 *Latest Version:* ${latestVersion}\n📂 *Total Plugins:* ${pluginCount}\n🔢 *Total Commands:* ${totalCommands}\n\n` +
       `💾 *System Info:*\n⏳ *Uptime:* ${uptime}\n📟 *RAM Usage:* ${ramUsage}MB / ${totalRam}MB\n⚙️ *Host Name:* ${hostName}\n📅 *Last Update:* ${lastUpdate}\n\n` +
       `📝 *Changelog:*\n${latestChangelog}\n\n` +
-      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [𓆩𝑨𝑾𝑨𝑰𝑺𝑿𝑫𓆪](https://github.com/Awais-star-a11y)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
+      `⭐ *GitHub Repo:* ${githubRepo}\n👤 *Owner:* [MAFIA](https://github.com/ADEELSABQI786/MAFIA-MD-V2)\n\n${updateMessage}\n\n🚀 *Hey! Don't forget to fork & star the repo!*`;
 
     // Send the status message with an image
     await conn.sendMessage(from, {
