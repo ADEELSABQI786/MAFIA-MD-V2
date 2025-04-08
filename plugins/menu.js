@@ -48,15 +48,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -118,15 +118,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -193,15 +193,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -249,15 +249,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -305,15 +305,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -356,15 +356,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -415,15 +415,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -464,15 +464,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -517,15 +517,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -567,15 +567,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: 'AWAIS MD',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
@@ -617,15 +617,15 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.imgur.com/XM8Vadf.jpeg` },
+                image: { url: `https://i.postimg.cc/6p3SW37h/Sarkar.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363369260614615@newsletter',
-                        newsletterName: '𓆩𝑨𝑾𝑨𝑰𝑺𝑿𝑫𓆪',
+                        newsletterJid: '120363300351654980@newsletter',
+                        newsletterName: '★彡ᴍᴀꜰɪᴀ-ᴀᴅᴇᴇʟミ★',
                         serverMessageId: 143
                     }
                 }
